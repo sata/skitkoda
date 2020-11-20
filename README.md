@@ -7,7 +7,7 @@ Code that is simply written to get that piece of hardware to blink or communicat
 
 Instead of treating the code as an artefact of engineering, treat it more as a rusty old broken Volvo that you're trying to get going again!
 
-These rules are a reminder for me to not get stuck in the fringes and instead focus on what's important when tinkering.
+These rules are a reminder for me to not get stuck in the fringes and instead focus on what's important when tinkering to gain as much happy time as possible!
 
 - Only write tests for what you think would make the tinkering easier
 - You're the audience, not anyone else
