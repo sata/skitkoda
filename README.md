@@ -1,7 +1,7 @@
 # Manifesto - SKITKODA 
 (meaning crap coding in Swedish)
 
-After a decade of industry experience, I tend to struggle with tinkering on my spare time without feeling the guilt of not writing clean code. Code that is not written in a TDD way, code that is not readable by everyone, code that is not tested by rigorous methodologies with unit, component, end to end, contract, property-based testing, fuzzers <insert fancy testing technique>, code that would make Dijkstra turn in his grave, code that doesn't try to solve the MVP or to prove if a hypothesis is correct. 
+After a decade of industry experience, I tend to struggle with tinkering on my spare time without feeling the guilt of not writing clean code. Code that is not written in a TDD way, code that is not readable by everyone, code that is not tested by rigorous methodologies with unit, component, end to end, contract, property-based testing, fuzzers, `insert fancy testing technique`, code that would make Dijkstra turn in his grave, code that doesn't try to solve the MVP or to prove if a hypothesis is correct. 
 
 Code that is simply written to get that piece of hardware to blink or communicate with a system in the quickest way for me to observe how that thing works to figure out what to play with next. 
 
